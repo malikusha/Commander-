@@ -1,3 +1,4 @@
+// Remy Kaldawy, Malika Nurbekova
 
 //This source file holds our main file and our helper functions
 
